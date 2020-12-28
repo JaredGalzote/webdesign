@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content-about {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    z-index: 1;
+}
+
+.text {
+    padding: 10px;
+}
+
+.abc {
+    border: 1px solid #dc3545;
+    width: 100%;
+    margin: 10px 0;
+}
+
+#about-us {
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    padding: 50px 5% 0px 5%;
+    background-color: var(--bg);
+}
