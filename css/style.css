@@ -173,7 +173,7 @@ button:hover {
 
 #about {
     width: 100%;
-    margin: 10rem 0;
+    padding: 10rem 0;
     box-sizing: border-box;
     display: flex;
     align-items: center;
@@ -213,7 +213,7 @@ button:hover {
 
 #impact {
     width: 100%;
-    margin: 10rem 0;
+    padding: 10rem 0;
     box-sizing: border-box;
     display: flex;
     align-items: center;
